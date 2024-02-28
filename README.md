@@ -1,1 +1,1 @@
-## README
+## Apple Giveaway Project for School
